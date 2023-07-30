@@ -6,4 +6,4 @@ I don't know, man. Login app for sum course
 Features :
 1. You can submit an Email and a password.
 2. You can validate them.
-3. Bullshit happens afterwards!
+3. Bullshit happens afterward!!!
